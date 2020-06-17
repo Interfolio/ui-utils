@@ -1,0 +1,22 @@
+{
+  "name": "ui-utils",
+  "version": "1.0.0",
+  "description": "Interfolio fork of ui-utils",
+  "main": "keypress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Interfolio/ui-utils.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Interfolio/ui-utils/issues"
+  },
+  "homepage": "https://github.com/Interfolio/ui-utils#readme",
+  "dependencies": {
+    "angular": "^1.8.0"
+  }
+}
